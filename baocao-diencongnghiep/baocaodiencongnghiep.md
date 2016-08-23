@@ -10,10 +10,6 @@ Thời gian: HK6 - Năm 2016
 
 - - -
 
-[toc]
-
-- - - 
-
 ## Nội dung báo cáo
 
 Gồm các phần sau:
